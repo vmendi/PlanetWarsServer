@@ -1,0 +1,22 @@
+K 10
+svn:ignore
+V 209
+SmartFoxServer.app
+SmartFoxBits
+licences
+Flash API
+Examples
+Docs
+Admin
+EULA.pdf
+GettingStarted.webloc
+licence.txt
+RedBox_license.txt
+releaseNotes.html
+jre
+GettingStarted.url
+redFox.ico
+start.bat
+Uninstall.exe
+
+END

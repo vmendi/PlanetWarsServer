@@ -1,0 +1,30 @@
+K 10
+svn:ignore
+V 313
+buddyLists
+datastore
+lib
+logs
+runAsService
+sfsExtensions
+webserver
+RedBox
+adminDb.sh
+bannedUsers.sfs
+bluebox.properties
+config_template.xml
+licence.sfl
+logging.properties
+redbox.properties
+sfs
+start.sh
+wrapper
+wrapper.log
+adminDb.bat
+InstallAsService.bat
+start.bat
+UninstallService.bat
+wrapper.exe
+javaExtensions
+
+END

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding=".svn/|unusual/.svn/" kind="src" path="src"/>
+	<classpathentry kind="lib" path="jars/json-lib-2.1-jdk15.jar"/>
+	<classpathentry kind="lib" path="jars/json.jar"/>
+	<classpathentry kind="lib" path="jars/jysfs.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre6"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

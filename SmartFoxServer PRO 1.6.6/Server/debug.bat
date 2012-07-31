@@ -1,0 +1,1 @@
+wrapper.exe -c .\conf\wrapperWin.conf

@@ -1,0 +1,6 @@
+Name,Short description,Long description,Type,Ground attack,Ground defense,Air attack,Air defense,Space attack,Space defense,Cost (in labor points)
+Marine division,1000 marines,The marines are...,Ground,1000,1000,0,10,0,10,10
+Tank,Standard Tank,The tank is...,Ground,2000,2000,0,10,0,10,20
+Cannon,Antiaerial Cannon,The Cannon is...,Ground,100,100,0,1000,0,10,20
+F-36,F-36 aircraft,The F-36 is...,Air,2000,2000,1000,1000,100,100,80
+Battlestar,Battlestar ship,The Battlestar is ...,Space,5000,0,1000,2000,5000,5000,300
